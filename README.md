@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right"alt="coding"width="400"src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe8%2Ff4%2F53%2Fe8f453469a3ec97ecd354df465d73913.gif&tbnid=35X6L1D39_KDvM&vet=12ahUKEwiHuN2D8fGAAxVkmmMGHQJzDpsQMygaegUIARC-AQ..i&imgrefurl=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fpinterest--59813501292017265%2F&docid=peXWGyUPT-4YHM&w=500&h=500&q=animated%20coding%20gif&ved=2ahUKEwiHuN2D8fGAAxVkmmMGHQJzDpsQMygaegUIARC-AQ">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushverma12566&label=Profile%20views&color=0e75b6&style=flat" alt="ayushverma12566" /> </p>
+<img align="right"alt="coding"width="400"src="https://leetcode.com/u/Ayush_84/" alt="ayushverma12566" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
