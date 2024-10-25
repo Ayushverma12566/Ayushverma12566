@@ -22,6 +22,10 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="30" width="40" />
 </a>
+<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30" width="40" />
+</a>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushverma12566&show_icons=true&locale=en&layout=compact" alt="ayushverma12566" /></p>
