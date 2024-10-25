@@ -8,6 +8,10 @@
 <a href="https://fb.com/ayush verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayush verma" height="30" width="40" /></a>
 <a href="https://instagram.com/mr._ayushverma._2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr._ayushverma._2005" height="30" width="40" /></a>
 </p>
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="30" width="40" />
+</a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
