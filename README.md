@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right"alt="coding"width="400"src="https://leetcode.com/u/Ayush_84/" alt="ayushverma12566" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
