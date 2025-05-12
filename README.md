@@ -20,6 +20,20 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 </a>
 
+   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" 
+     alt="Redux Logo" width="50" height="50"/>
+   </a>
+     
+   <a href="https://react.dev/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" 
+     alt="React Logo" width="50" height="50"/></a>
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" 
+     alt="Tailwind CSS Logo" width="50" height="50"/>
+</a>
+
+
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="30" width="40" />
 </a>
